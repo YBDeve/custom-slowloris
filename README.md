@@ -1,4 +1,4 @@
-# slowloris.py - Simple slowloris in Python
+# custom-slowloris.py - Simple slowloris in Python
 
 ## What is Slowloris?
 Slowloris is basically an HTTP Denial of Service attack that affects threaded servers. It works like this:
@@ -14,25 +14,18 @@ This exhausts the servers thread pool and the server can't reply to other people
 If you found this work useful, please cite it as
 
 ```bibtex
-@article{gkbrkslowloris,
-  title = "Slowloris",
-  author = "Gokberk Yaltirakli",
+@article{YB.DevCustomSlowloris,
+  title = "Custom Slowloris",
+  author = "YB.Dev",
   journal = "github.com",
-  year = "2015",
-  url = "https://github.com/gkbrk/slowloris"
+  year = "2024",
+  url = "https://github.com/YBDeve/custom-slowloris"
 }
 ```
 
 ## How to install and run?
 
-You can clone the git repo or install using **pip**. Here's how you run it.
-
-* `sudo pip3 install slowloris`
-* `slowloris example.com`
-
-That's all it takes to install and run slowloris.py.
-
-If you want to clone using git instead of pip, here's how you do it.
+To install this Slowloris version you can use the following method:
 
 * `git clone https://github.com/YBDeve/custom-slowloris`
 * `cd custom-slowloris`
