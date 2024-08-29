@@ -14,9 +14,9 @@ This exhausts the servers thread pool and the server can't reply to other people
 If you found this work useful, please cite it as
 
 ```bibtex
-@article{YB.DevCustomSlowloris,
+@article{YBDeveCustomSlowloris,
   title = "Custom Slowloris",
-  author = "YB.Dev",
+  author = "YBDeve",
   journal = "github.com",
   year = "2024",
   url = "https://github.com/YBDeve/custom-slowloris"
